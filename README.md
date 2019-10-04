@@ -8,3 +8,6 @@
 - App installation
     - In console ```$ sencha app watch```
     - In browser ```http://localhost:1841/```
+    
+### Example
+[Example](http://test-extjs.diamondsystems.org/)

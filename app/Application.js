@@ -3,6 +3,7 @@ Ext.define('ExamplesExtJS.Application', {
     name: 'ExamplesExtJS',
 
     requires: [
+        'Ext.*',
         'ExamplesExtJS.view.tasks.Tasks'
     ],
     mainView: 'ExamplesExtJS.view.tasks.Tasks'
